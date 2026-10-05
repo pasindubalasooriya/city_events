@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1070209543311",
+    "firebase_url": "https://city-events-d2745-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "city-events-d2745",
+    "storage_bucket": "city-events-d2745.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070209543311:android:5a679ae7c32bb09e01d4fa",
+        "android_client_info": {
+          "package_name": "lk.apiit.city_events"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfKr7CKJGesmLz5AiotnBxER5j0ccmhRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

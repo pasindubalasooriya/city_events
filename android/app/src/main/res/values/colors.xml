@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The app's seed colour (AppTheme.seedColor in app_theme.dart), reused
+         for the launcher icon background and the notification accent so the
+         icon matches the app. -->
+    <color name="brand_teal">#00696D</color>
+</resources>

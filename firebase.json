@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "city-events-d2745",
+          "appId": "1:1070209543311:android:5a679ae7c32bb09e01d4fa",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "city-events-d2745",
+          "configurations": {
+            "android": "1:1070209543311:android:5a679ae7c32bb09e01d4fa",
+            "web": "1:1070209543311:web:05b87814e3bb41f701d4fa"
+          }
+        }
+      }
+    }
+  },
+  "database": {
+    "rules": "database.rules.json"
+  }
+}

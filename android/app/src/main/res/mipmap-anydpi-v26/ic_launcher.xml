@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The launcher icon on Android 8 and later: a teal background with the
+     white calendar on top. The launcher chooses the outline shape.
+     monochrome is used by Android 13's themed icons, which recolour every
+     icon to match the wallpaper. Older phones fall back to the PNGs in the
+     mipmap-*dpi folders. -->
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/brand_teal" />
+    <foreground android:drawable="@drawable/ic_launcher_foreground" />
+    <monochrome android:drawable="@drawable/ic_launcher_foreground" />
+</adaptive-icon>
